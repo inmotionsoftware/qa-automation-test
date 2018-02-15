@@ -1,0 +1,29 @@
+{
+  "cities": [
+    {
+      "name": "Austin",
+      "state": "TX",
+      "details": "/austin.json"
+    },
+    {
+      "name": "Houston",
+      "state": "TX",
+      "details": "/houston.json"
+    },
+    {
+      "name": "Dallas",
+      "state": "TX",
+      "details": "/dallas.json"
+    },
+    {
+      "name": "New York",
+      "state": "NY",
+      "details": "/new_york.json"
+    },
+    {
+      "name": "Seattle",
+      "state": "WA",
+      "details": "/seattle.json"
+    }
+  ]
+}

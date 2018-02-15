@@ -1,0 +1,11 @@
+{
+  "name": "Dallas",
+  "state": "TX",
+  "description": "Dallas, a modern metropolis in north Texas, is a commercial and cultural hub of the region. Downtown’s Sixth Floor Museum at Dealey Plaza commemorates the site of President John F. Kennedy’s assassination in 1963. In the Arts District, the Dallas Museum of Art and the Crow Collection of Asian Art cover thousands of years of art. The sleek Nasher Sculpture Center showcases contemporary sculpture.",
+  "population": 1317929,
+  "url": "https://en.wikipedia.org/wiki/Dallas",
+  "coordinates": {
+    "latitude": "32.7767 N",
+    "longitude": "96.7970 W"
+  }
+}

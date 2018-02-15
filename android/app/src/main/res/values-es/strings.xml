@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InMotion QA bugger</string>
+    <string name="population">población: %1$s</string>
+    <string name="filter">Filtros</string>
+    <string name="sort">Ordenar</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Ingresar</string>
+</resources>

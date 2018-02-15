@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InMotion QA bugger</string>
+    <string name="population">Population: %1$s</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="cities">Cities</string>
+    <string name="details">Details</string>
+
+
+</resources>
