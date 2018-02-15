@@ -17,13 +17,13 @@ import retrofit2.http.Url
  * Created by jhunt on 2/1/18.
  */
 
-const val BASE_URL = "http://10.0.5.74:8000"
+const val BASE_URL = "https://raw.githubusercontent.com/"
 
 class ApiClient {
 
     interface CitiesService {
 
-        @GET("/cities.json")
+        @GET("/inmotionsoftware/qa-automation-test/master/cities.json")
         fun getCities(): Call<Cities>
 
         @GET
@@ -52,7 +52,7 @@ class ApiClient {
 
     fun getCities(): Call<Cities> = citiesService.getCities()
 
-    fun getCityCall(cityDetailUrl: String): Call<CityDetail> = citiesService.getCity(cityDetailUrl)
+    fun getCityCall(cityDetailUrl: String): Call<CityDetail> = citiesService.getCity("/inmotionsoftware/qa-automation-test/master/$cityDetailUrl")
 
 
 }
